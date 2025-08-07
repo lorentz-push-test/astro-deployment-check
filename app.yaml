@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: astro-deployment-check
+owner: lorentz-push-test
+package: .
